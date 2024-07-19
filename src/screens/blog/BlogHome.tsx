@@ -123,4 +123,4 @@ const styles = StyleSheet.create({
   },
 });
 
-export default BlogHome;
+export default BlogHome
